@@ -1,0 +1,135 @@
+Leverage Visualization Tools
+
+Use visual tools like Visualgo to see algorithms in action.
+Draw trees, graphs, and linked lists on paper to build intuition.
+------------------------------------------------------
+
+
+Prompts to Ask Me for Maximum Learning:
+Concept Clarification:
+
+"Explain [topic] in the simplest way possible."
+"How does [algorithm] work step by step with an example?"
+"What are the differences between [concept 1] and [concept 2]?"
+Problem-Solving Help:
+
+"Give me 5 beginner-level problems on [topic]."
+"Suggest intermediate problems for [data structure]."
+"Walk me through the solution for this problem step by step."
+"Explain how to optimize this solution further."
+Code Debugging:
+
+"Here's my code for [problem]. Can you review it and suggest improvements?"
+"Why is this code not working? Help me debug it."
+"How can I improve the time complexity of this solution?"
+Efficiency and Optimization:
+
+"Show me the brute-force, better, and best solutions for [problem]."
+"How can I reduce the space complexity of this code?"
+"What are common optimizations for [algorithm]?"
+Learning Roadmap:
+
+"Create a 1-month plan to master [specific data structure or algorithm]."
+"List must-solve problems for [topic]."
+"What should I focus on to improve my competitive programming skills?"
+Algorithm Visualization and Analysis:
+
+"Explain [algorithm] with a visual example."
+"How does [algorithm] perform for different edge cases?"
+"Compare the efficiency of [Algorithm A] vs [Algorithm B]."
+Additional Resources to Accelerate Learning:
+Leetcode (Problems by Difficulty) – Focus on solving easy/medium problems consistently.
+GeeksforGeeks – Learn and implement algorithms with detailed explanations.
+Codeforces (Competitive) – For advanced problem-solving practice.
+HackerRank – Good for beginners to build basic skills.
+Neetcode – Structured problem-solving with patterns and clear solutions.
+Youtubers (for explanations):
+Abdul Bari – Algorithms Visualized
+Errichto – Competitive Programming
+Neetcode – DSA and Leetcode Problems
+freeCodeCamp – In-depth tutorials
+Extra Challenges to Push Yourself:
+Solve 5-10 problems on weekends to boost practice.
+Try contest-style problems weekly. Aim for at least 1-2 problems solved during a contest.
+After each major topic (arrays, stacks, etc.), build a project or application that applies those concepts.
+-------------------------------------------------------------
+
+
+Here's a condensed 3-month DSA (Data Structures and Algorithms) roadmap that covers essential topics like arrays, strings, linked lists, stacks, queues, trees, graphs, sorting, and searching. The plan allocates 2 hours per day with regular revision to ensure solid understanding.
+
+Overall Structure (3 Months):
+Weeks 1-4 – Fundamentals: Arrays, Strings, Linked Lists
+Weeks 5-8 – Intermediate: Stacks, Queues, Trees
+Weeks 9-12 – Advanced: Graphs, Sorting, Searching, Algorithms
+Revision: Every 3rd week is dedicated to revision
+Month 1: Arrays, Strings, Linked Lists
+Week 1: Arrays
+Day 1-2: Array Basics (Traversal, Insertion, Deletion)
+Day 3: Sum, Max/Min, Reverse Array
+Day 4: Two-pointer and Sliding Window (Simple Problems)
+Day 5: Binary Search (Rotated Array, First/Last Occurrence)
+Day 6: Sorting (Bubble, Selection, Insertion)
+Day 7: Practice 5 Array Problems
+Week 2: Strings
+Day 1-2: String Basics (Concatenation, Reversal, Substrings)
+Day 3-4: Palindrome, Anagram, Frequency Count Problems
+Day 5: Pattern Matching (Simple Approach)
+Day 6: Practice 5 String Problems
+Day 7: Solve Random String Problems
+Week 3: Linked Lists (LL)
+Day 1-2: Singly Linked List (Insertion, Deletion)
+Day 3: Reverse LL, Detect Cycle
+Day 4: Doubly Linked List Basics
+Day 5: Merge Two Sorted LL
+Day 6: Circular Linked List (Basics)
+Day 7: Revision and Solve 10 Problems
+Week 4: Revision Week
+Day 1-4: Solve 15 Array/String/LL Problems
+Day 5-7: Revise Weak Areas and Re-solve Previous Problems
+Month 2: Stacks, Queues, Trees
+Week 5: Stacks
+Day 1-2: Stack Implementation (Array/LL)
+Day 3: Next Greater Element, Balanced Parentheses
+Day 4: Infix/Postfix Conversion
+Day 5: Practice 5 Stack Problems
+Day 6-7: Solve More Stack Problems (3-5)
+Week 6: Queues and Deque
+Day 1-2: Queue Implementation (Array/LL)
+Day 3: Circular Queue, Deque
+Day 4: Priority Queue Basics
+Day 5: Sliding Window Problems
+Day 6-7: Solve 5 Queue Problems
+Week 7: Trees
+Day 1-3: Binary Tree Basics (Traversal - Inorder, Preorder, Postorder)
+Day 4: Height, Diameter of Tree
+Day 5: Binary Search Tree (Insertion, Deletion)
+Day 6-7: Practice 5 Tree Problems
+Week 8: Revision Week
+Day 1-4: Solve 15 Stack/Queue/Tree Problems
+Day 5-7: Revise and Re-solve Weak Topics
+Month 3: Graphs, Sorting, Searching
+Week 9: Graphs
+Day 1-3: Graph Basics (Representation - Adjacency List/Matrix)
+Day 4: BFS, DFS Traversal
+Day 5: Cycle Detection in Graph
+Day 6-7: Practice 5 Graph Problems
+Week 10: Sorting and Searching
+Day 1-2: Merge Sort, Quick Sort
+Day 3: Heap Sort, Counting Sort
+Day 4: Binary Search on 2D Arrays
+Day 5: Practice 5 Sorting/Search Problems
+Day 6-7: Random Problem Solving
+Week 11: Important Algorithms
+Day 1-2: Dijkstra’s Algorithm (Shortest Path)
+Day 3: Bellman-Ford Algorithm
+Day 4: Kruskal’s and Prim’s (MST)
+Day 5: Topological Sort
+Day 6-7: Solve 5 Graph/Algorithm Problems
+Week 12: Final Revision Week
+Day 1-4: Solve 20 Problems from All Topics
+Day 5-7: Focus on Weak Topics and Re-solve Previous Problems
+Key Points for Success:
+Consistency: Stick to 2 hours/day. Break it into 1 hour for learning and 1 hour for practice.
+Practice: Use platforms like Leetcode, HackerRank, Codeforces.
+Revision: Solve 5-10 random problems every revision day.
+Track Progress: Maintain a notebook to track solved problems and weak areas.

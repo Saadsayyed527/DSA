@@ -1,0 +1,13 @@
+   now give me day 1 plan of 2 hours in detail 
+
+   -------------------
+
+   day 1 
+
+Day 1 Plan (2 Hours) – Array Basics in Java: Traversal, Insertion, Deletion
+Goal:
+Understand array operations in Java.
+Implement traversal, insertion, and deletion.
+Practice simple problems to strengthen fundamentals.
+
+
