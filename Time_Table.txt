@@ -65,7 +65,7 @@ Revision: Every 3rd week is dedicated to revision
 Month 1: Arrays, Strings, Linked Lists
 Week 1: Arrays
 Day 1-2: Array Basics (Traversal, Insertion, Deletion)
-Day 3: Sum, Max/Min, Reverse Array
+Day 3: Sum , Max/Min , Reverse Array
 Day 4: Two-pointer and Sliding Window (Simple Problems)
 Day 5: Binary Search (Rotated Array, First/Last Occurrence)
 Day 6: Sorting (Bubble, Selection, Insertion)
