@@ -92,7 +92,6 @@ class day1 {
         if(arr[i]>max ){
             smax = max ;
             max= Math.max(max, arr[i]);
-            
         }
         else if (arr[i]<max && arr[i]>smax) {
         smax = arr[i];
