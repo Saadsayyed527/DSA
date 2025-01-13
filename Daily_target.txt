@@ -1,7 +1,6 @@
    now give me day 1 plan of 2 hours in detail 
 
-   -------------------
-
+==============================================================================
    day 1 
 
 Day 1 Plan (2 Hours) – Array Basics in Java: Traversal, Insertion, Deletion
@@ -10,8 +9,13 @@ Understand array operations in Java.
 Implement traversal, insertion, and deletion.
 Practice simple problems to strengthen fundamentals.
 
-======================================
-day 2 
+https://leetcode.com/problemset/?search=+Find+Numbers+with+Even+Number+of+Digits&page=1
 
-Day 2 Plan – Array Basics (Insertion & Deletion)
-Goal: Learn how to insert and delete elements in an array, understand shifting elements, and solve basic problems.
+==============================================================================
+
+day 2
+https://leetcode.com/problems/richest-customer-wealth/submissions/1031154068/
+
+
+
+aioug  Saad1234
