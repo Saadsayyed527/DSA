@@ -29,5 +29,7 @@ public static void main(String[] args) {
     } else {
         System.out.println("Element not found in the array.");
     }
+
+    // day of binary search
 }
 }
