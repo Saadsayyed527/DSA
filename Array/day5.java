@@ -1,35 +1,87 @@
-public class day5 { public static int binarySearch(int[] arr, int target) {
-    int low = 0;                      // Start of the array
-    int high = arr.length - 1;        // End of the array
+public class day5 {
+    public static void main(String[] args) {
+        int arr[] = { 1, 3, 5, 7, 9 };
 
-    while (low <= high) {             // Repeat until search space is exhausted
-        int mid = low + (high - low) / 2;  // Calculate mid to avoid overflow
+        // System.err.println(binarySearch(arr, 7));
+        // System.out.println(CeilingbinarySearch(arr, 4));
+        // System.out.println(FloorbinarySearch(arr, 0));
 
-        if (arr[mid] == target) {     // If mid element matches target
-            return mid;
-        } else if (arr[mid] < target) { // Target is in the right half
-            low = mid + 1;
-        } else {                      // Target is in the left half
-            high = mid - 1;
+    }
+
+    // question 5 
+
+    
+    // question 4  leetcode 744 
+    public static char nextGreater(char[] letters, char target){
+        int s = 0;
+        int e = letters.length-1;
+        while (s<=e) {
+            int mid = s+(e-s)/2;
+            if(target<letters[mid]){
+                e= mid-1;
+            }
+            else{
+                s=mid+1;
+            }
+            
         }
+        if(s==letters.length)return letters[0];
+        return letters[s];
     }
 
-    return -1;  // Target not found
-}
+    // question 3 floor of the array
 
-// Main Method
-public static void main(String[] args) {
-    int[] sortedArray = {2, 4, 7, 10, 15, 20};
-    int target = 10;
+    public static int FloorbinarySearch(int[] arr, int target) {
+        int s = 0;
+        int e = arr.length - 1;
+        while (s <= e) {
+            int mid = s + (e - s) / 2;
+            if (arr[mid] == target) {
+                return mid;
+            } else if (arr[mid] > target) {
+                e = mid - 1;
+            } else {
+                s = mid + 1;
+            }
 
-    int result = binarySearch(sortedArray, target);
-
-    if (result != -1) {
-        System.out.println("Element found at index: " + result);
-    } else {
-        System.out.println("Element not found in the array.");
+        }
+        return e;
     }
 
-    // day of binary search
-}
+    // question 2 Ceiling of arrar
+
+    public static int CeilingbinarySearch(int[] arr, int target) {
+        int s = 0;
+        int e = arr.length - 1;
+        while (s <= e) {
+            int mid = s + (e - s) / 2;
+            if (arr[mid] == target) {
+                return mid;
+            } else if (arr[mid] > target) {
+                e = mid - 1;
+            } else {
+                s = mid + 1;
+            }
+
+        }
+        return s;
+    }
+
+    // question 1 simple binary search
+    public static int binarySearch(int[] arr, int target) {
+        int s = 0;
+        int e = arr.length - 1;
+        while (s <= e) {
+            int mid = s + (e - s) / 2;
+            if (arr[mid] == target) {
+                return mid;
+            } else if (arr[mid] > target) {
+                e = mid - 1;
+            } else {
+                s = mid + 1;
+            }
+
+        }
+        return -1;
+    }
 }
