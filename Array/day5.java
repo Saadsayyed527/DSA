@@ -10,6 +10,7 @@ public class day5 {
 
     // question 5 
 // new binary
+// ll
 
     // question 4  leetcode 744 
     public static char nextGreater(char[] letters, char target){
